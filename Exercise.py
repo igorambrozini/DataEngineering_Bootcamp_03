@@ -14,5 +14,6 @@ def check_data(quantity, price):
 quantity = float(input("Digite a quantidade: "))
 price = float(input("Digite o preço: "))
 
+
 result = check_data(quantity, price)
 print(result)
